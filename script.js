@@ -10,7 +10,7 @@ import { GoogleGenerativeAI, HarmCategory, HarmBlockThreshold } from "@google/ge
 // Storing a real API key client-side is EXTREMELY INSECURE for paid services.
 // For any real application beyond personal, local testing, you MUST use a backend proxy.
 // REVOKE any publicly exposed keys immediately after testing.
-const GEMINI_API_KEY = "AIzaSyAZ2mfzREj1ecUduaST3iKWpLQ0mEcp_o8"; // <<< REPLACE AND PROTECT THIS KEY
+const GEMINI_API_KEY = "AIzaSyDN69U0xj8qY2Xxri9div2rOFECgocavDQ"; // <<< REPLACE AND PROTECT THIS KEY
 
 const firebaseConfig = {
   apiKey: "AIzaSyAZ2mfzREj1ecUduaST3iKWpLQ0mEcp_o8",
